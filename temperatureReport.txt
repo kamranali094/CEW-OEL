@@ -1,0 +1,5 @@
+Country: Pakistan
+City: Karachi
+Highest Temperature: 19.00
+Lowest Temperature: 19.00
+Average Temperature: 19.00000000000000000000

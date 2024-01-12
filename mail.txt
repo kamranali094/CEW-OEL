@@ -1,0 +1,5 @@
+Subject: Temperature Alert
+From: maaz24400@gmail.com
+To: tslmn12345@gmail.com
+
+ALERT: Weather is too cold, Take necessary precautions
