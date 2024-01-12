@@ -19,7 +19,7 @@ do
     temperatureData=($(cat processedData.txt))
 
     # Variables for real-time alerts
-    criticalLow=20.0
+    criticalLow=10.0
     criticalHigh=35.0
 
     # Flag to track whether an alert needs to be sent
